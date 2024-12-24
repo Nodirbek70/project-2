@@ -912,7 +912,7 @@ span {
     }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 768px) {
     .header {
         padding: 12px 0;
     }
